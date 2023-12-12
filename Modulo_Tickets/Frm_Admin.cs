@@ -327,17 +327,20 @@ namespace Modulo_Tickets
 
         private void Btn_Staff_Click(object sender, EventArgs e)
         {
-            if (Persistentes.Controles("GENERAL"))
-            {
-                Frm_AdminGeneral Admin = new Frm_AdminGeneral();
-                PanelContenido(Admin);
-            }
-            else
-            {
-                // Reducir();
-                Frm_Staff frm = new Frm_Staff();
-                PanelContenido(frm);
-            }
+            Frm_AdminGeneral Admin = new Frm_AdminGeneral();
+            PanelContenido(Admin);
+            //Esta parte pasa a ser por permisos.
+            //if (Persistentes.Controles("GENERAL"))
+            //{
+            //    Frm_AdminGeneral Admin = new Frm_AdminGeneral();
+            //    PanelContenido(Admin);
+            //}
+            //else
+            //{
+            //    // Reducir();
+            //    Frm_Staff frm = new Frm_Staff();
+            //    PanelContenido(frm);
+            //}
 
         }
         //bool Controles(string Control)

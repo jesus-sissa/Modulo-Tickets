@@ -28,7 +28,7 @@ namespace Modulo_Tickets
             Listar_Rubros();
             Pnl_Centro.Controls.Add(Flow);
             Flow.Dock = System.Windows.Forms.DockStyle.Fill;
-            panel1.Visible = false;
+
         }
         void Listar_Rubros()
         {
@@ -43,20 +43,27 @@ namespace Modulo_Tickets
 
         void AgregarRubro(string Nombre, string Id, byte[] Img)
         {
-            System.IO.MemoryStream ms = new System.IO.MemoryStream(Img);
-            btn = new BunifuTileButton();
-            btn.Image = Image.FromStream(ms);
-            btn.ImagePosition = 20;
-            btn.ImageZoom = 50;
-            btn.LabelPosition = 41;
-            btn.LabelText = Nombre;
-            btn.Name = Id;
-            btn.Font = new System.Drawing.Font("Century Gothic", 9F);
-            btn.Size = new System.Drawing.Size(229, 186);
+            foreach (DataRow Row in Persistentes.Datatable_Permisos.Rows)
+            {
+                if (Row[1].ToString() == Nombre)
+                {
+                    System.IO.MemoryStream ms = new System.IO.MemoryStream(Img);
+                    btn = new BunifuTileButton();
+                    btn.Image = Image.FromStream(ms);
+                    btn.ImagePosition = 20;
+                    btn.ImageZoom = 50;
+                    btn.LabelPosition = 41;
+                    btn.LabelText = Nombre;
+                    btn.Name = Id;
+                    btn.Font = new System.Drawing.Font("Century Gothic", 9F);
+                    btn.Size = new System.Drawing.Size(229, 186);
 
-            btn.TabIndex = Convert.ToInt32(Id);
-            Flow.Controls.Add(btn);
-            btn.Click += new EventHandler(CliqRubro);
+                    btn.TabIndex = Convert.ToInt32(Id);
+                    Flow.Controls.Add(btn);
+                    btn.Click += new EventHandler(CliqRubro);
+                }
+            }
+            
 
         }
         private void CliqRubro(Object sender, EventArgs e) //------------
