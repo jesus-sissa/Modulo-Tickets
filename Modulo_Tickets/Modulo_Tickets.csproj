@@ -1,0 +1,972 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Costura.Fody.3.3.3\build\Costura.Fody.props" Condition="Exists('..\packages\Costura.Fody.3.3.3\build\Costura.Fody.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CAC882A7-DF09-4BE7-AB7F-C9227826B681}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Modulo_Tickets</RootNamespace>
+    <AssemblyName>Modulo_Tickets</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>D:\REPOSITORY\DEPLOYMENT\Modulo_Tickets\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://dvl-mty-v01/QA/Modulo_Ticktes/</InstallUrl>
+    <ProductName>Módulo Tickets</ProductName>
+    <PublisherName>SISSA Software</PublisherName>
+    <SuiteName>Sistema Integral de Administración y Control</SuiteName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>SIAC.htm</WebPage>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>3.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>network_local.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DB6F90B0A1D92AE1B21B7B22C05F906B72A5A707</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Modulo_Tickets_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Costura, Version=3.3.3.0, Culture=neutral, PublicKeyToken=9919ef960d84173d, processorArchitecture=MSIL">
+      <HintPath>..\packages\Costura.Fody.3.3.3\lib\net40\Costura.dll</HintPath>
+    </Reference>
+    <Reference Include="Faker, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Faker.1.2\lib\Faker.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xmlworker.5.5.13.3\lib\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.2.2.3.1\lib\net45\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=100.0.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharpSigned.105.2.3\lib\net45\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actualizar.cs" />
+    <Compile Include="Apoyo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apoyo.Designer.cs">
+      <DependentUpon>Apoyo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WsCajeroInteligente\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Alert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Alert.Designer.cs">
+      <DependentUpon>Form_Alert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_AdminGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_AdminGeneral.Designer.cs">
+      <DependentUpon>Frm_AdminGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_AdminTareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_AdminTareas.Designer.cs">
+      <DependentUpon>Frm_AdminTareas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_AsignarTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_AsignarTicket.Designer.cs">
+      <DependentUpon>Frm_AsignarTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Categorias.Designer.cs">
+      <DependentUpon>Frm_Categorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_CategoriasAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_CategoriasAdd.Designer.cs">
+      <DependentUpon>Frm_CategoriasAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Clientes.Designer.cs">
+      <DependentUpon>Frm_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ClientesHijos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ClientesHijos.Designer.cs">
+      <DependentUpon>Frm_ClientesHijos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Comentarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Comentarios.Designer.cs">
+      <DependentUpon>Frm_Comentarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Departamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Departamentos.Designer.cs">
+      <DependentUpon>Frm_Departamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DetalleTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DetalleTicket.Designer.cs">
+      <DependentUpon>Frm_DetalleTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DetalleTicketFlujo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DetalleTicketFlujo.Designer.cs">
+      <DependentUpon>Frm_DetalleTicketFlujo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DeveloperSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DeveloperSettings.Designer.cs">
+      <DependentUpon>Frm_DeveloperSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Estrellas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Estrellas.Designer.cs">
+      <DependentUpon>Frm_Estrellas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_FiltroBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_FiltroBusqueda.Designer.cs">
+      <DependentUpon>Frm_FiltroBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_FlujoNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_FlujoNuevo.Designer.cs">
+      <DependentUpon>Frm_FlujoNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Flujos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Flujos.Designer.cs">
+      <DependentUpon>Frm_Flujos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_FlujosNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_FlujosNew.Designer.cs">
+      <DependentUpon>Frm_FlujosNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_FlujoSoporteD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_FlujoSoporteD.Designer.cs">
+      <DependentUpon>Frm_FlujoSoporteD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_FlujoStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_FlujoStaff.Designer.cs">
+      <DependentUpon>Frm_FlujoStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Formatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Formatos.Designer.cs">
+      <DependentUpon>Frm_Formatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Formulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Formulario.Designer.cs">
+      <DependentUpon>Frm_Formulario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_FormularioAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_FormularioAdd.Designer.cs">
+      <DependentUpon>Frm_FormularioAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Imagenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Imagenes.Designer.cs">
+      <DependentUpon>Frm_Imagenes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Mensaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Mensaje.Designer.cs">
+      <DependentUpon>Frm_Mensaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ModoContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ModoContacto.Designer.cs">
+      <DependentUpon>Frm_ModoContacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NivelServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NivelServicio.Designer.cs">
+      <DependentUpon>Frm_NivelServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NuevoTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NuevoTicket.Designer.cs">
+      <DependentUpon>Frm_NuevoTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Prestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Prestamos.Designer.cs">
+      <DependentUpon>Frm_Prestamos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ProyectoAvance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ProyectoAvance.Designer.cs">
+      <DependentUpon>Frm_ProyectoAvance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Proyectos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Proyectos.Designer.cs">
+      <DependentUpon>Frm_Proyectos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Proyecto_Detalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Proyecto_Detalle.Designer.cs">
+      <DependentUpon>Frm_Proyecto_Detalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ProyetosLista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ProyetosLista.Designer.cs">
+      <DependentUpon>Frm_ProyetosLista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ReasignarDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ReasignarDepartamento.Designer.cs">
+      <DependentUpon>Frm_ReasignarDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ReporteFlujo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ReporteFlujo.Designer.cs">
+      <DependentUpon>Frm_ReporteFlujo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Reportes.Designer.cs">
+      <DependentUpon>Frm_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ReporteTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ReporteTickets.Designer.cs">
+      <DependentUpon>Frm_ReporteTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_RubroAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_RubroAgregar.Designer.cs">
+      <DependentUpon>Frm_RubroAgregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Rubros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Rubros.Designer.cs">
+      <DependentUpon>Frm_Rubros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Seguimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Seguimiento.Designer.cs">
+      <DependentUpon>Frm_Seguimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SoporteD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SoporteD.Designer.cs">
+      <DependentUpon>Frm_SoporteD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Staff.Designer.cs">
+      <DependentUpon>Frm_Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_StaffAdminGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_StaffAdminGeneral.Designer.cs">
+      <DependentUpon>Frm_StaffAdminGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Status.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Status.Designer.cs">
+      <DependentUpon>Frm_Status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_StatusActivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_StatusActivos.Designer.cs">
+      <DependentUpon>Frm_StatusActivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SubCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SubCategorias.Designer.cs">
+      <DependentUpon>Frm_SubCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Tareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Tareas.Designer.cs">
+      <DependentUpon>Frm_Tareas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TareasAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TareasAdd.Designer.cs">
+      <DependentUpon>Frm_TareasAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TareasDptos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TareasDptos.Designer.cs">
+      <DependentUpon>Frm_TareasDptos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TareasDptosAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TareasDptosAdd.Designer.cs">
+      <DependentUpon>Frm_TareasDptosAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TareasUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TareasUsuarios.Designer.cs">
+      <DependentUpon>Frm_TareasUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TareasUsuariosAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TareasUsuariosAdd.Designer.cs">
+      <DependentUpon>Frm_TareasUsuariosAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TicketCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TicketCategoria.Designer.cs">
+      <DependentUpon>Frm_TicketCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TicketSubCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TicketSubCategoria.Designer.cs">
+      <DependentUpon>Frm_TicketSubCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TipoReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TipoReporte.Designer.cs">
+      <DependentUpon>Frm_TipoReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TreeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TreeView.Designer.cs">
+      <DependentUpon>Frm_TreeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Usuarios.Designer.cs">
+      <DependentUpon>Frm_Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Zoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Zoom.Designer.cs">
+      <DependentUpon>Frm_Zoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frn_TicketNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frn_TicketNew.Designer.cs">
+      <DependentUpon>Frn_TicketNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Conexion.cs" />
+    <Compile Include="Frm_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Admin.Designer.cs">
+      <DependentUpon>Frm_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTickets.Designer.cs">
+      <DependentUpon>FrmTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ConfiguracionRubrosTickets.cs" />
+    <Compile Include="Model\Correo.cs" />
+    <Compile Include="Model\Documentos.cs" />
+    <Compile Include="Model\Persistentes.cs" />
+    <Compile Include="Model\Repository\ArchivosRepository.cs" />
+    <Compile Include="Model\Repository\CategoriasRepository.cs" />
+    <Compile Include="Model\Repository\ClienteRepository.cs" />
+    <Compile Include="Model\Repository\ConfiguracionRubrosTickesRepository.cs" />
+    <Compile Include="Model\Repository\CorreoRepository.cs" />
+    <Compile Include="Model\Repository\DepartamentosRepository.cs" />
+    <Compile Include="Model\Repository\EmpleadosRepository.cs" />
+    <Compile Include="Model\Repository\FormatosRepository.cs" />
+    <Compile Include="Model\Repository\LoginRepository.cs" />
+    <Compile Include="Model\Repository\ProyectosRepository.cs" />
+    <Compile Include="Model\Repository\ReporteRepository.cs" />
+    <Compile Include="Model\Repository\RubroRepository.cs" />
+    <Compile Include="Model\Repository\SolicitudCambioRepository.cs" />
+    <Compile Include="Model\Repository\TareasRepository.cs" />
+    <Compile Include="Model\Repository\TicketRepository.cs" />
+    <Compile Include="Model\SolicitudCambio.cs" />
+    <Compile Include="Model\UserRequest.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Soporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Soporte.Designer.cs">
+      <DependentUpon>Soporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Formatos\Frm_Permisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Formatos\Frm_Permisos.Designer.cs">
+      <DependentUpon>Frm_Permisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Formatos\Frm_Vacaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Formatos\Frm_Vacaciones.Designer.cs">
+      <DependentUpon>Frm_Vacaciones.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Apoyo.resx">
+      <DependentUpon>Apoyo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Admin.resx">
+      <DependentUpon>Frm_Admin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Alert.resx">
+      <DependentUpon>Form_Alert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTickets.resx">
+      <DependentUpon>FrmTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_AdminGeneral.resx">
+      <DependentUpon>Frm_AdminGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_AdminTareas.resx">
+      <DependentUpon>Frm_AdminTareas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_AsignarTicket.resx">
+      <DependentUpon>Frm_AsignarTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Categorias.resx">
+      <DependentUpon>Frm_Categorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_CategoriasAdd.resx">
+      <DependentUpon>Frm_CategoriasAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Clientes.resx">
+      <DependentUpon>Frm_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ClientesHijos.resx">
+      <DependentUpon>Frm_ClientesHijos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Comentarios.resx">
+      <DependentUpon>Frm_Comentarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Departamentos.resx">
+      <DependentUpon>Frm_Departamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DetalleTicket.resx">
+      <DependentUpon>Frm_DetalleTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DetalleTicketFlujo.resx">
+      <DependentUpon>Frm_DetalleTicketFlujo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DeveloperSettings.resx">
+      <DependentUpon>Frm_DeveloperSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Estrellas.resx">
+      <DependentUpon>Frm_Estrellas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_FiltroBusqueda.resx">
+      <DependentUpon>Frm_FiltroBusqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_FlujoNuevo.resx">
+      <DependentUpon>Frm_FlujoNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Flujos.resx">
+      <DependentUpon>Frm_Flujos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_FlujosNew.resx">
+      <DependentUpon>Frm_FlujosNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_FlujoSoporteD.resx">
+      <DependentUpon>Frm_FlujoSoporteD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_FlujoStaff.resx">
+      <DependentUpon>Frm_FlujoStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Formatos.resx">
+      <DependentUpon>Frm_Formatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Formulario.resx">
+      <DependentUpon>Frm_Formulario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_FormularioAdd.resx">
+      <DependentUpon>Frm_FormularioAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Imagenes.resx">
+      <DependentUpon>Frm_Imagenes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Mensaje.resx">
+      <DependentUpon>Frm_Mensaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ModoContacto.resx">
+      <DependentUpon>Frm_ModoContacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NivelServicio.resx">
+      <DependentUpon>Frm_NivelServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NuevoTicket.resx">
+      <DependentUpon>Frm_NuevoTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Prestamos.resx">
+      <DependentUpon>Frm_Prestamos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ProyectoAvance.resx">
+      <DependentUpon>Frm_ProyectoAvance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Proyectos.resx">
+      <DependentUpon>Frm_Proyectos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Proyecto_Detalle.resx">
+      <DependentUpon>Frm_Proyecto_Detalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ProyetosLista.resx">
+      <DependentUpon>Frm_ProyetosLista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ReasignarDepartamento.resx">
+      <DependentUpon>Frm_ReasignarDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ReporteFlujo.resx">
+      <DependentUpon>Frm_ReporteFlujo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Reportes.resx">
+      <DependentUpon>Frm_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ReporteTickets.resx">
+      <DependentUpon>Frm_ReporteTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_RubroAgregar.resx">
+      <DependentUpon>Frm_RubroAgregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Rubros.resx">
+      <DependentUpon>Frm_Rubros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Seguimiento.resx">
+      <DependentUpon>Frm_Seguimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SoporteD.resx">
+      <DependentUpon>Frm_SoporteD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Staff.resx">
+      <DependentUpon>Frm_Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_StaffAdminGeneral.resx">
+      <DependentUpon>Frm_StaffAdminGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Status.resx">
+      <DependentUpon>Frm_Status.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_StatusActivos.resx">
+      <DependentUpon>Frm_StatusActivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SubCategorias.resx">
+      <DependentUpon>Frm_SubCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Tareas.resx">
+      <DependentUpon>Frm_Tareas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TareasAdd.resx">
+      <DependentUpon>Frm_TareasAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TareasDptos.resx">
+      <DependentUpon>Frm_TareasDptos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TareasDptosAdd.resx">
+      <DependentUpon>Frm_TareasDptosAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TareasUsuarios.resx">
+      <DependentUpon>Frm_TareasUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TareasUsuariosAdd.resx">
+      <DependentUpon>Frm_TareasUsuariosAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TicketCategoria.resx">
+      <DependentUpon>Frm_TicketCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TicketSubCategoria.resx">
+      <DependentUpon>Frm_TicketSubCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TipoReporte.resx">
+      <DependentUpon>Frm_TipoReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TreeView.resx">
+      <DependentUpon>Frm_TreeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Usuarios.resx">
+      <DependentUpon>Frm_Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Zoom.resx">
+      <DependentUpon>Frm_Zoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frn_TicketNew.resx">
+      <DependentUpon>Frn_TicketNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Soporte.resx">
+      <DependentUpon>Soporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Formatos\Frm_Permisos.resx">
+      <DependentUpon>Frm_Permisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Formatos\Frm_Vacaciones.resx">
+      <DependentUpon>Frm_Vacaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.Consultar_ReporteSucursales_RFCResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.Consultar_Sucursales_RFCResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.Consultar_Tickets_Sucursal_IDResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.Deposito_ConsultaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.DeposResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.Guardar_TicketResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.Obtener_puntoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.Obtener_RemisionResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\Modulo_Tickets.WsCajeroInteligente.SetDataResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WsCajeroInteligente\WsCashFlow.wsdl" />
+    <None Include="Modulo_Tickets_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WsCajeroInteligente\WsCashFlow.disco" />
+    <None Include="Connected Services\WsCajeroInteligente\configuration91.svcinfo" />
+    <None Include="Connected Services\WsCajeroInteligente\configuration.svcinfo" />
+    <None Include="Connected Services\WsCajeroInteligente\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="network_local.ico" />
+    <Content Include="Resources\Aceptar.png" />
+    <Content Include="Resources\Agregar.png" />
+    <Content Include="Resources\Alert_CashFlow.png" />
+    <Content Include="Resources\auditoria_software.png" />
+    <Content Include="Resources\Backspace.png" />
+    <Content Include="Resources\Baja.png" />
+    <Content Include="Resources\BajaReing.png" />
+    <Content Include="Resources\Bateria_Cargada.png" />
+    <Content Include="Resources\Bateria_Cargando.gif" />
+    <Content Include="Resources\BorrarDepositos.png" />
+    <Content Include="Resources\btn_AgregarCaset.png" />
+    <Content Include="Resources\btn_AgregarCaset1.png" />
+    <Content Include="Resources\btn_AgregarTodo.png" />
+    <Content Include="Resources\btn_AgregarUno.png" />
+    <Content Include="Resources\btn_Auditoria.png" />
+    <Content Include="Resources\btn_CambiarPassword.png" />
+    <Content Include="Resources\btn_CatalogoCaset.png" />
+    <Content Include="Resources\btn_Cerradura.png" />
+    <Content Include="Resources\btn_CerrarAplicacion.png" />
+    <Content Include="Resources\btn_CerrarSesion.png" />
+    <Content Include="Resources\btn_ConsultaDepositos.png" />
+    <Content Include="Resources\btn_ConsultaRetiros.png" />
+    <Content Include="Resources\btn_ConsultaSaldos.png" />
+    <Content Include="Resources\btn_ConsultaUsuarios.png" />
+    <Content Include="Resources\btn_Correos.png" />
+    <Content Include="Resources\btn_Corte.png" />
+    <Content Include="Resources\btn_CorteDiario.png" />
+    <Content Include="Resources\btn_Depositos.png" />
+    <Content Include="Resources\btn_Descargar.png" />
+    <Content Include="Resources\btn_DesktopSize.png" />
+    <Content Include="Resources\btn_Dollar.png" />
+    <Content Include="Resources\btn_EditarSQLCE.png" />
+    <Content Include="Resources\btn_EditarUsuario.png" />
+    <Content Include="Resources\btn_EliminarCaset.png" />
+    <Content Include="Resources\btn_EliminarUsuario.png" />
+    <Content Include="Resources\btn_Execute.png" />
+    <Content Include="Resources\btn_Movimientos.png" />
+    <Content Include="Resources\btn_Parametros.png" />
+    <Content Include="Resources\btn_Pausa.png" />
+    <Content Include="Resources\btn_Privilegios.png" />
+    <Content Include="Resources\btn_QuitarTodo.png" />
+    <Content Include="Resources\btn_QuitarUno.png" />
+    <Content Include="Resources\btn_ReiniciarImpresora.png" />
+    <Content Include="Resources\btn_Retiros.png" />
+    <Content Include="Resources\btn_Sincronizar.png" />
+    <Content Include="Resources\btn_SubirArchivo.png" />
+    <Content Include="Resources\btn_ValidarBilletes.png" />
+    <Content Include="Resources\Buzon.png" />
+    <Content Include="Resources\calendar_16.png" />
+    <Content Include="Resources\Cancelar.png" />
+    <Content Include="Resources\cargando.gif" />
+    <Content Include="Resources\CASET1.png" />
+    <Content Include="Resources\CASET2.png" />
+    <Content Include="Resources\CheckBox_Checked_24x24.png" />
+    <Content Include="Resources\CheckBox_Tristate_24x24.png" />
+    <Content Include="Resources\CheckBox_Unchecked_24x24.png" />
+    <Content Include="Resources\Conectar.png" />
+    <Content Include="Resources\copy.png" />
+    <Content Include="Resources\C_Depositos.png" />
+    <Content Include="Resources\C_DepositosD.png" />
+    <Content Include="Resources\C_Movimientos.png" />
+    <Content Include="Resources\C_Retiros.png" />
+    <Content Include="Resources\C_RetirosD.png" />
+    <None Include="Resources\descargar.png" />
+    <Content Include="Resources\Detalle.png" />
+    <Content Include="Resources\Down_arrow.png" />
+    <Content Include="Resources\Enter.png" />
+    <None Include="Resources\warning.png" />
+    <None Include="Resources\success.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\icons8_cancel_25px.png" />
+    <None Include="Resources\error.png" />
+    <Content Include="Resources\error_128.png" />
+    <Content Include="Resources\Escanear.png" />
+    <Content Include="Resources\EscanearPuerto.png" />
+    <Content Include="Resources\Examinar.png" />
+    <None Include="Resources\Exiiit.png" />
+    <Content Include="Resources\Finalizar.png" />
+    <None Include="Resources\formato_tickets.PNG" />
+    <Content Include="Resources\Guardar.png" />
+    <Content Include="Resources\img_Bajar.png" />
+    <Content Include="Resources\img_Subir.png" />
+    <Content Include="Resources\Imprimir.png" />
+    <Content Include="Resources\information_128.png" />
+    <Content Include="Resources\Inicializar.png" />
+    <Content Include="Resources\LogoSISSA.jpg" />
+    <Content Include="Resources\Mostrar.png" />
+    <Content Include="Resources\MXP100.jpg" />
+    <Content Include="Resources\MXP1000.jpg" />
+    <Content Include="Resources\MXP20.jpg" />
+    <Content Include="Resources\MXP200.jpg" />
+    <Content Include="Resources\MXP50.jpg" />
+    <Content Include="Resources\MXP500.jpg" />
+    <Content Include="Resources\Negar.png" />
+    <Content Include="Resources\NoId.jpg" />
+    <None Include="Resources\Support.jpg" />
+    <None Include="Resources\OEVLWY0.jpg" />
+    <Content Include="Resources\Ok_128.png" />
+    <Content Include="Resources\Pesos.png" />
+    <None Include="Resources\Plantilla_Vacaciones.html" />
+    <None Include="Resources\Plantilla2_prestamos.html" />
+    <None Include="Resources\Plantilla3_Permisos.html" />
+    <Content Include="Resources\question_128.png" />
+    <Content Include="Resources\RadioButton_Checked_24x24.png" />
+    <Content Include="Resources\RadioButton_UnChecked_24x24.png" />
+    <Content Include="Resources\Refrescar.png" />
+    <Content Include="Resources\ReiniciarPC.png" />
+    <Content Include="Resources\Respaldar.png" />
+    <Content Include="Resources\Salir.png" />
+    <Content Include="Resources\ScriptSQL.png" />
+    <None Include="Resources\Subir.png" />
+    <None Include="Resources\SISSA.png" />
+    <None Include="Resources\tarea.jpg" />
+    <Content Include="Resources\TarjetaRed.png" />
+    <Content Include="Resources\Up_Arrow.png" />
+    <Content Include="Resources\USD1.jpg" />
+    <Content Include="Resources\USD10.jpg" />
+    <Content Include="Resources\USD100.jpg" />
+    <Content Include="Resources\USD2.jpg" />
+    <Content Include="Resources\USD20.jpg" />
+    <Content Include="Resources\USD5.jpg" />
+    <Content Include="Resources\USD50.jpg" />
+    <Content Include="Resources\warning_128.png" />
+    <Content Include="Resources\xml.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\WsCajeroInteligente\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Fody.4.0.2\build\Fody.targets" Condition="Exists('..\packages\Fody.4.0.2\build\Fody.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Fody.4.0.2\build\Fody.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Fody.4.0.2\build\Fody.targets'))" />
+    <Error Condition="!Exists('..\packages\Costura.Fody.3.3.3\build\Costura.Fody.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Costura.Fody.3.3.3\build\Costura.Fody.props'))" />
+  </Target>
+</Project>

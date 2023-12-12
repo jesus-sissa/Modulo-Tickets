@@ -1,0 +1,2 @@
+Tratar de traer el base64 de la base de datos y convertirlo en byte[] para asi usarlo como 
+igualador al momento de cliclear en cliq cambiar el valor de arhivo_byte al valor del archivo que se este leyendo 

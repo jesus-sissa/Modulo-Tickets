@@ -1,0 +1,601 @@
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\bin\Debug\RestSharp.xml
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Form2.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+C:\Users\jesus.ortega\source\repos\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\bin\Debug\RestSharp.xml
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Form2.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+C:\Users\jesus.medrano\Desktop\Fuentes Sissa\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\bin\Debug\RestSharp.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Form2.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DeveloperSettings.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketExterno.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\bin\Debug\RestSharp.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DeveloperSettings.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Imagenes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Zoom.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminGeneral.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_StaffAdminGeneral.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Admin.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Categorias.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SubCategorias.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_CategoriasAdd.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketCategoria.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketSubCategoria.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Clientes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ClientesHijos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\RestSharp.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Admin.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminGeneral.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Categorias.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_CategoriasAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Clientes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ClientesHijos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DeveloperSettings.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Imagenes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_StaffAdminGeneral.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SubCategorias.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketCategoria.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketSubCategoria.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Zoom.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\RestSharp.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Admin.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminGeneral.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Categorias.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_CategoriasAdd.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Clientes.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ClientesHijos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DeveloperSettings.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Imagenes.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_StaffAdminGeneral.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SubCategorias.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketCategoria.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketSubCategoria.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Zoom.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\bin\Debug\RestSharp.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Admin.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminGeneral.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Categorias.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_CategoriasAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Clientes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ClientesHijos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DeveloperSettings.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Imagenes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_StaffAdminGeneral.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SubCategorias.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketCategoria.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketSubCategoria.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Zoom.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets1\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminTareas.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Tareas.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasDptos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasDptosAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasUsuarios.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasUsuariosAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Flujos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujosNew.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoNuevo.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicketFlujo.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoStaff.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoSoporteD.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteFlujo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminTareas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicketFlujo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoNuevo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Flujos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujosNew.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoSoporteD.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoStaff.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteFlujo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Tareas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasAdd.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasDptos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasDptosAdd.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasUsuarios.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasUsuariosAdd.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\bin\Debug\RestSharp.xml
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Admin.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminGeneral.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminTareas.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Categorias.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_CategoriasAdd.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Clientes.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ClientesHijos.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicketFlujo.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DeveloperSettings.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoNuevo.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Flujos.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujosNew.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoSoporteD.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoStaff.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Imagenes.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteFlujo.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_StaffAdminGeneral.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SubCategorias.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Tareas.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasAdd.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasDptos.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasDptosAdd.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasUsuarios.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasUsuariosAdd.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketCategoria.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketSubCategoria.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Zoom.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Formatos.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.View.Formatos.Frm_Vacaciones.resources
+C:\Users\jesus.ortega\Desktop\Source\Modulo_Tickets\Modulo_Tickets\bin\Debug\itextsharp.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.config
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe.manifest
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.application
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.exe
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\bin\Debug\Modulo_Tickets.pdb
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\bin\Debug\itextsharp.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\bin\Debug\RestSharp.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Apoyo.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Admin.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.FrmTickets.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminGeneral.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AdminTareas.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_AsignarTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Categorias.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_CategoriasAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Clientes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ClientesHijos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Comentarios.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Departamentos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DetalleTicketFlujo.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_DeveloperSettings.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Estrellas.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FiltroBusqueda.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoNuevo.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Flujos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujosNew.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoSoporteD.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FlujoStaff.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Formatos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Formulario.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FormularioAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Imagenes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Login.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Mensaje.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ModoContacto.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NivelServicio.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_NuevoTicket.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Prestamos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyectoAvance.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyectos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Proyecto_Detalle.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ProyetosLista.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReasignarDepartamento.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteFlujo.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Reportes.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_ReporteTickets.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_RubroAgregar.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Rubros.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Seguimiento.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SoporteD.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Staff.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_StaffAdminGeneral.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Status.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_StatusActivos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_SubCategorias.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Tareas.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasDptos.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasDptosAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasUsuarios.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TareasUsuariosAdd.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketCategoria.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TicketSubCategoria.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TipoReporte.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_TreeView.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Usuarios.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Zoom.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frn_TicketNew.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Properties.Resources.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Soporte.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.View.Formatos.Frm_Vacaciones.resources
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.GenerateResource.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CoreCompileInputs.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.Fody.CopyLocal.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.TrustInfo.xml
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe.manifest
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.application
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.CopyComplete
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.exe
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.pdb
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.csproj.AssemblyReference.cache
+C:\Users\brandon.ibarra\Desktop\Modulo_Tickets 2\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.View.Formatos.Frm_Permisos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\bin\Debug\itextsharp.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Formatos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Formulario.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_FormularioAdd.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Prestamos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_Status.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.Frm_StatusActivos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.View.Formatos.Frm_Permisos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Tickets\Modulo_Tickets\obj\Debug\Modulo_Tickets.View.Formatos.Frm_Vacaciones.resources

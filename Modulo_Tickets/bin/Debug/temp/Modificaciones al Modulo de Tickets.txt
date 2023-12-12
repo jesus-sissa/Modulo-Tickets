@@ -1,0 +1,23 @@
+1.- Validacion de 50 caracteres en todos los comentarios 
+2.- Al clickear enviar varias veces se enviaban varios correos  (ticket nuevo)
+3.- Se Modifico el boton de adjuntar archivo para permitir mandar imagenes y documentos (Ticket nuevo)
+3.5.- Se quito la vista previa de la imagen
+4.- Se añadio en la parte inferios de la descripcion una leyenda con Archivo Adjunto (Ticket nuevo)
+5.- Se encontro un problema en tickets externos (Ticket nuevo)
+6.- Se agrego el boton Adjuntar archivo para poder agregar mas archivos a tu ticket (Tickets)
+7.- En Rubros se agrego lo que es proveedor y num archivos (Rubros)
+8.- Se modifico el boton ver imagenes a ver documentos (admin)
+9.- Este boton abrira una lista de documentos y en ella abrira externamente los archivos (admin)
+10.- Se agrego un scroll al boton no es tu area para poder visualizar todos los rubros (admin)
+11.- Se modificaron las imagenes de los tickets dependiendo de su status para poder diferencias entre ellos (admin)
+12.- Se agrego un apartado para el total de tickets (admin) 
+13.- Se agrego un buscador (admin)
+14.- Se soluciono el problema de al momento de dar un status se cambiara el rubro (admin)
+15.- Se arreglo el filtrado de tickets por status  (admin)
+16.- Se cambio el boton de ver iamgenes a ver documentos trabaja igual al de admin (Asignacion)
+17.- Se agrego 2 nuevos botones esto nos serviran para contabilizar los timpos de proveedor (asignaciones)--
+17.5.- Se valido que no puedan dar como resuleto el ticket en caso de a ver iniciado hora de proveedor pero no cerrada(asignaciones)
+18.- Se hizo el cambio de la hora de vida del ticket ahora es de hora asignacion hasta hora fin (Reporte)
+19.- Se quito tambien el tiempo de proveedor del tiempo de vida de ticket  (Reporte)
+20.- Se agrego el nombre de la sucursal en el grid de reporte (Reporte)
+21.- Se modificaron el tamaño de letras de los rubros en forma de boton (admin,rubro,boton no es tu area?)
