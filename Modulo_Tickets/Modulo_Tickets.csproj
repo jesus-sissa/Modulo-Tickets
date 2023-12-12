@@ -25,14 +25,14 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://dvl-mty-v01/QA/Modulo_Ticktes/</InstallUrl>
+    <InstallUrl>http://dvl-mty-v01/Modulo_Ticktes/</InstallUrl>
     <ProductName>Módulo Tickets</ProductName>
     <PublisherName>SISSA Software</PublisherName>
     <SuiteName>Sistema Integral de Administración y Control</SuiteName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>SIAC.htm</WebPage>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationRevision>8</ApplicationRevision>
     <ApplicationVersion>3.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
