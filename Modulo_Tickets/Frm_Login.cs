@@ -187,7 +187,7 @@ namespace Modulo_Tickets
                     Persistentes.UsuarioLogin_IdDepartamento = Convert.ToInt32(DT.Rows[0]["Id_Departamento"].ToString());
                     Persistentes.Usuario_LoginCorreo= DT.Rows[0]["Mail"].ToString();
                     Persistentes.Id_Rubro = Convert.ToInt32(DT.Rows[0]["Id_Rubro"].ToString());
-                    Persistentes.usuarioLogin_Firma = (byte[])DT.Rows[0]["Firma"];
+                    Persistentes.usuarioLogin_Firma = System.DBNull.Value.Equals( DT.Rows[0]["Firma"]) ? new byte [0]: (byte[])DT.Rows[0]["Firma"];
                     //Persistentes.Id_Departamento = Convert.ToInt32(DT.Rows[0]["Id_Departamento"].ToString());
                     LoginRequest Login = new LoginRequest();
                     Persistentes.Datatable_Permisos = LoginRepository.PermisosControles_Read(Login);
